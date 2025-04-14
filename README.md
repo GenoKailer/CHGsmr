@@ -10,7 +10,7 @@ Hola, soy Kepa, estudiante de informatica y motivado por el aprendizaje. Me enfo
 - 🧠 **Actualmente aprendiendo**: Grado superior  
 - 🏆 **Me gustaría**: Colaborar en proyectos de base de datos
 - 🤝 **Busco conectar con**: Gente a la que le interese la programacion 
-- 🌍 **Ubicación**: Cantabria, España
+- 🌍 **Ubicación**: Cantabria, España gg
  
 ---
  
